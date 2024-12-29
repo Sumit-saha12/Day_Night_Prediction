@@ -7,4 +7,4 @@ Key steps in my approach:
 3️⃣ Define a threshold to classify each frame into time of day categories.
   
 
-. Linkdin Link: https://www.linkedin.com/posts/sumit-saha-b04024213_i-am-happy-to-share-that-i-have-just-booked-activity-7279004342156673025-bjoW?utm_source=share&utm_medium=member_desktop
+. Linkdin Link: [https://www.linkedin.com/posts/sumit-saha-b04024213_i-am-happy-to-share-that-i-have-just-booked-activity-7279004342156673025-bjoW?utm_source=share&utm_medium=member_desktop](https://sulkurl.com/gYG)
